@@ -19,6 +19,7 @@
 | Login Screen | Register Screen | Home Screen |
 |:---:|:---:|:---:|
 | ![Login](D:\pertemuan5\pertemuan5\assets\screenshots\Screenshot login.jpeg) | ![Register1](D:\pertemuan5\pertemuan5\assets\screenshots\Screenshot register1.jpeg) | ![Register2](D:\pertemuan5\pertemuan5\assets\screenshots\Screenshot register2.jpeg) | ![Register3](D:\pertemuan5\pertemuan5\assets\screenshots\Screenshot register3.jpeg) |  ![Home](D:\pertemuan5\pertemuan5\assets\screenshots\Screenshot home.jpeg) |
+<img width="270" height="1057" alt="Screenshot home" src="https://github.com/user-attachments/assets/8ae693a0-4e0b-439a-81ca-2d1c807d9beb" />
 
 
 ## 🔗 Link Demo
