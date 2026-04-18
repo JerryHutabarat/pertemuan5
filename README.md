@@ -26,7 +26,7 @@
 | Platform | Link |
 |---|---|
 | 🚀 **Expo Snack (Test Langsung)** | [▶️ Buka di Expo Snack](https://snack.expo.dev/) |
-| 💻 **GitHub Repository** | [Repo ini](https://github.com/USERNAME/REPO_NAME) |
+| 💻 **GitHub Repository** | [Repo ini](https://github.com/JerryHutabarat/pertemuan5.git) |
 
 > ⚠️ **Ganti link Expo Snack:** Buka [snack.expo.dev](https://snack.expo.dev), paste kode kamu, lalu copy link-nya ke sini.
 
